@@ -110,23 +110,23 @@ nav ul li a{
 
 .page2{
   background-color: blue;
-  width: 630px;
-  height: 805px;
-  padding: 10px 0px 10px 20px;
+  width: 700px;
+  height: 780px;
+  padding: 10px 0px 10px 10px;
   margin: auto;
 }
 .page2 main{
   background-color: aqua;
-  width: 270px;
-  height: 270px;
+  width: 300px;
+  height: 300px;
   margin: 10px 10px 10px 5px;
   display: inline-block;
-  padding: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 20px;
   
 }
 .page2 main article {
-  width: 130px;
-  height: 130px;
+  width: 140px;
+  height: 140px;
   background-color:chocolate;
   display: inline-block;
   border-radius: 50%;
@@ -146,8 +146,271 @@ nav ul li a{
   display: inline-block;
   border-radius: 50%;
 }
+.page2 section{
+  background-color: purple;
+  width: 135px;
+  height: 190px;
+  margin: 10px 10px 0px 10px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px 0px 10px 0px;
+  
+}
+.page2 section footer{
+ 
+  width: 80px;
+  height: 190px;
+  background-color: cyan;
+  display: inline-block;
+  margin: 0px 60px 0px 25px;
+  border-radius: 50%;
+}
 
-
-
+.page2 nav{
+  background-color: purple;
+  width: 190px;
+  height: 190px;
+  margin: 10px 0px 0px 20px;
+  display: inline-block;
+  vertical-align: top;
+  padding: 15px 0px 10px 0px;
+   
+}
+.page2 nav a{
+  width: 60px;
+  height: 60px;
+  background-color: cyan;
+  display: inline-block;
+  margin: 10px 10px 10px 10px;
+  border-radius: 50%;
+}
+.page3{
+  background-color: greenyellow;
+  width: 690px;
+  height: 780px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.page3 main{
+  background-color: aqua;
+  width: 300px;
+  height: 240px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page3 main article{
+  background-color: cornflowerblue;
+  width: 250px;
+  height: 200px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 20px;
+  
+}
+.page3 main article div{
+  background-color: saddlebrown;
+  width: 210px;
+  height: 160px;
+  margin: 10px 0px 10px 0px;
+  display: inline-block;
+  padding: 10px 10px 10px 20px;
+  
+}
+.page3 main article div li{
+  width: 55px;
+  height: 55px;
+  background-color: sandybrown;
+  display: inline-block;
+  margin: 10px 0px 10px 10px;
+  border-radius: 50%;
+  
+}
+.page3 main article div a{
+  width: 55px;
+  height: 55px;
+  background-color: sandybrown;
+  display: inline-block;
+  margin: 10px 0px 10px 10px;
+  
+}
+.page3 section{
+  background-color: #B11FB1;
+  width: 640px;
+  height: 215px;
+  margin: 10px 0px 0px 10px;
+  padding: 10px 10px 10px 10px;
+  
+}
+.page3 section main{
+  background-color: #1D6EE7;
+  width: 610px;
+  height: 170px;
+  margin: 10px 0px 0px 10px;
+  padding: 15px 0px 10px 0px;
+  
+}
+.page3 section main div{
+  background-color: #1D6EE7;
+  width: 580px;
+  height: 140px;
+  margin: 0px 0px 0px 15px;
+  padding: 0px 0px 0px 0px;
+  
+}
+.page3 section main div li{
+  background-color: #0E23E0;
+  width: 210px;
+  height: 140px;
+  margin: 5px 0px 0px 10px;
+  padding: 10px 0px 10px 0px;
+  display: inline-block;
+  vertical-align: top;
+  
+}
+.page3 section main div li section{
+  width: 50px;
+  height: 100px;
+  background-color: cyan;
+  display: inline-block;
+  margin: 5px 0px 0px 20px;
+  border-radius: 50%;
+  
+}
+.page3 section main div a{
+  background-color: #0E23E0;
+  width: 170px;
+  height: 135px;
+  margin: 5px 0px 0px 15px;
+  padding: 15px 0px 10px 0px;
+  display: inline-block;
+  vertical-align: top;
+  
+}
+.page3 section main div a section{
+  width: 100px;
+  height: 35px;
+  background-color: cyan;
+  display: inline-block;
+  margin: 0px 0px 10px 25px;
+  border-radius: 50%;
+  
+}
+.page3 section main div nav{
+  background-color: #0E23E0;
+  width: 140px;
+  height: 135px;
+  margin: 5px 0px 0px 15px;
+  padding: 15px 0px 10px 0px;
+  display: inline-block;
+  
+}
+.page3 section main div nav section{
+  width: 40px;
+  height: 40px;
+  background-color: cyan;
+  display: inline-block;
+  margin: 0px 10px 10px 20px;
+  border-radius: 50%;
+  
+}
+.page3 footer{
+  background-color: #B1411F;
+  width: 640px;
+  height: 215px;
+  margin: 10px 0px 0px 10px;
+  padding: 10px 10px 10px 10px;
+  
+}
+.page3 footer aside{
+  background-color: #1396EC;
+  width: 610px;
+  height: 170px;
+  margin: 10px 0px 0px 10px;
+  padding: 15px 0px 10px 0px;
+  
+}
+.page3 footer aside main{
+  background-color: #E0B90E;
+  width: 580px;
+  height: 140px;
+  margin: 0px 0px 0px 15px;
+  padding: 10px 0px 10px 0px;
+  
+}
+.page3 footer aside main li{
+  background-color: #3B0EE0;
+  width: 550px;
+  height: 110px;
+  margin: 5px 0px 0px 15px;
+  padding: 10px 0px 10px 0px;
+  
+}
+.page3 footer aside main li a{
+  width: 80px;
+  height: 80px;
+  background-color: whitesmoke;
+  display: inline-block;
+  margin: 10px 10px 10px 15px;
+  border-radius: 50%;
+  
+}
+.page4{
+  background-color: #171818;
+  width: 700px;
+  height: 780px;
+  padding: 10px 10px 10px 10px;
+  margin: auto;
+}
+.page4 main{
+  background-color: #2600FF;
+  width: 80px;
+  height: 180px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page4 main section{
+  width: 65px;
+  height: 65px;
+  background-color: skyblue;
+  display: inline-block;
+  margin: 10px 10px 10px 5px;
+  border-radius: 50%;
+  
+}
+.page4 nav{
+  background-color: #2600FF;
+  width: 40px;
+  height: 180px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
+.page4 main nav {
+  width: 50px;
+  height: 140px;
+  background-color: whitesmoke;
+  display: inline-block;
+  margin: 10px 10px 30px 5px;
+  border-radius: 50%;
+  
+}
+.page4 div{
+  background-color: #2600FF;
+  width: 200px;
+  height: 260px;
+  margin: 10px 10px 10px 10px;
+  display: inline-block;
+  padding: 10px 10px 10px 10px;
+  vertical-align: top;
+  
+}
 
 
